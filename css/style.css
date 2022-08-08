@@ -1,0 +1,45 @@
+*
+{
+    background-color:aquamarine;
+}
+
+#main_page
+{
+text-align: center;
+}
+
+h1,h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:xx-large;
+    color: burlywood;
+}
+
+#main_page a{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:larger;
+}
+
+ol li{
+
+    line-height:30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:large;
+    text-align: justify;
+}
+
+ul{
+padding-left: 0;
+}
+
+ul li{
+line-height: 30px;
+font-family: 'Times New Roman', Times, serif;
+font-size:large;
+list-style-position: inside;
+}
+
+strong{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+}
